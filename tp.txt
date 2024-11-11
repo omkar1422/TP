@@ -1,0 +1,544 @@
+Package_Name	Feature_Code	Feature_Parameter	Value
+G3 Essential	AccomClassMappingView		
+G3 Essential	ActiveG3LinkedProducts	pacman.agilerates.MaxActiveAgileRates	0
+G3 Essential	admin-tools		
+G3 Essential	AdvancedPricingConfiguration		0
+G3 Essential	AgileRates	pacman.feature.AgileRatesEnabled	0
+G3 Essential	AMS	pacman.feature.AnalyticalMarketSegmentEnabled	0
+G3 Essential	at-a-glance		
+G3 Essential	AttributeAssignmentNonAmsView		
+G3 Essential	AttributeAssignmentView		
+G3 Essential	BudgetDataView		
+G3 Essential	BudgetUserForecastConfigurationView		
+G3 Essential	business-analysis		
+G3 Essential	BusinessAnalysisDataDetailsView		
+G3 Essential	BusinessAnalysisSummaryView		
+G3 Essential	ChannelSettingsView		
+G3 Essential	client-budget		
+G3 Essential	client-limited-data-build		
+G3 Essential	client-questionnaire		
+G3 Essential	ClientBookingPatternView		
+G3 Essential	ClientProjectionsView		
+G3 Essential	CompetitorPriceAsOfLastNightlyOptimization		
+G3 Essential	CompetitorPriceChange		
+G3 Essential	CompetitorSettingsView		
+G3 Essential	ConditionStep		
+G3 Essential	CONFIGURE		
+G3 Essential	CONFIGURE_DECISIONS		
+G3 Essential	CONFIGURE_EXTERNAL_DATA		
+G3 Essential	CONFIGURE_FORECASTS		
+G3 Essential	CONFIGURE_INVENTORY		
+G3 Essential	CONFIGURE_PERMISSIONS		
+G3 Essential	CONFIGURE_PROPERTY		
+G3 Essential	ContinuousPricing	pacman.feature.isContinuousPricingEnabled	1
+G3 Essential	corporate-business-views		
+G3 Essential	CorporateBusinessView		
+G3 Essential	Cost of Walk		
+G3 Essential	CostOfWalkView		
+G3 Essential	dashboard-summary		
+G3 Essential	DASHBOARDS		
+G3 Essential	data-extraction-report		
+G3 Essential	data-feed		
+G3 Essential	dataDetails		
+G3 Essential	DataExtractionReport	pacman.feature.MaxAllowedSchedulesForDataExtractionReport	1
+G3 Essential	decision-configuration		
+G3 Essential	DecisionAsOfLastNightlyOptimization		
+G3 Essential	DecisionAsOfLastOptimization		
+G3 Essential	DecisionChangeEx		
+G3 Essential	DecisionChangeExAsOfLastOptimization		
+G3 Essential	DecisionConfiguration	pacman.feature.DecisionConfigurationEnabled	1
+G3 Essential	demand-and-wash-management		
+G3 Essential	DemandByOccDateAndWashView		
+G3 Essential	ExternalSystem		2
+G3 Essential	fiscal-calendar		
+G3 Essential	ForecastGroupOverrideTableView		
+G3 Essential	ForecastGroupView		
+G3 Essential	ForecastWindowBDE	pacman.forecasting.forecastWindowBDE	405
+G3 Essential	ForecastWindowCDP	pacman.forecasting.forecastWindowCDP	
+G3 Essential	FTPDeliveryForReports	pacman.PreProduction.EnableFTPDeliveryForReports	0
+G3 Essential	FUNCTION_SPACE		
+G3 Essential	FutureDays	pacman.integration.futureDays	405
+G3 Essential	group-status-code		
+G3 Essential	GroupView		
+G3 Essential	ideashare		
+G3 Essential	IDP		0
+G3 Essential	IMAlertsView		
+G3 Essential	IMNotificationsView		
+G3 Essential	IMSystemHealthView		
+G3 Essential	IndependentProducts	pacman.preproduction.IndependentProductsEnabled	0
+G3 Essential	IndependentProductsDefinitionStepView		
+G3 Essential	information-manager		
+G3 Essential	investigator		
+G3 Essential	InvestigatorChartView		
+G3 Essential	InvestigatorOverrideHistoryPlaceholderView		
+G3 Essential	InvestigatorOverrideTabPlaceholderView		
+G3 Essential	limited-data-build		
+G3 Essential	LimitedDataBuildMarketSegmentView		
+G3 Essential	MANAGE		
+G3 Essential	market-segments		
+G3 Essential	MarketSegmentView		
+G3 Essential	MaxIDP	pacman.core.property.cdp.dailymax	0
+G3 Essential	MaxUploadLinkedProducts	pacman.agilerates.MaxUploadedAgileRates	0
+G3 Essential	MONITOR		
+G3 Essential	MONITOR_REPORTS		
+G3 Essential	monitoring-dashboard		
+G3 Essential	MonitoringWindowStep		
+G3 Essential	MultiProductInvestigatorChartView		
+G3 Essential	MultiProductOverrideHistoryPlaceholderView		
+G3 Essential	MultiProductOverrideTabPlaceholderView		
+G3 Essential	NOTIFICATION_SUBTYPE_COMP_SUBTYPE		
+G3 Essential	NOTIFICATION_SUBTYPE_PRICING		
+G3 Essential	NOTIFICATION_SUBTYPE_PRICING_BY_VALUE		
+G3 Essential	NotificationDetailsStep		
+G3 Essential	OnDemandOptimization	pacman.feature.OnDemandIDPEnabled	0
+G3 Essential	operations-report		
+G3 Essential	OperationsReport	pacman.feature.MaxAllowedSchedulesForOperationsReport	1
+G3 Essential	OptimizationWindowBDE	pacman.optimization.optimizationWindowBDE	405
+G3 Essential	OptimizationWindowCDP	pacman.optimization.optimizationWindowCDP	
+G3 Essential	OTHER		
+G3 Essential	overbooking-management		
+G3 Essential	OverbookingCostOfWalkOverrideValueColumn		0
+G3 Essential	OverbookingView		
+G3 Essential	pick-up-change-and-differential-control-report		
+G3 Essential	PickupAndChangeReport	pacman.feature.MaxAllowedSchedulesForPickupAndChangeReport	8
+G3 Essential	pricing		
+G3 Essential	pricing-config		
+G3 Essential	pricing-report		
+G3 Essential	PricingConfigurationFloorCeilingView		
+G3 Essential	PricingConfigurationOffsetsView		
+G3 Essential	PricingConfigurationSupplementView		
+G3 Essential	PricingReport	pacman.feature.MaxAllowedSchedulesForPricingReport	7
+G3 Essential	ProjectionsDownloaderView		
+G3 Essential	property-groups		
+G3 Essential	property-specific-configuration		
+G3 Essential	PropertyBusinessView		
+G3 Essential	PropertyInformationView		
+G3 Essential	PropertyStep		
+G3 Essential	rate-shopping-configuration		
+G3 Essential	RateCodeView		
+G3 Essential	RateShoppingScheduleView		
+G3 Essential	Room Class		
+G3 Essential	Room Type		
+G3 Essential	Room Type to Room Class Mapping		
+G3 Essential	RoomClass		1
+G3 Essential	rooms-configuration		
+G3 Essential	RoomsConfigurationWelcomeView		
+G3 Essential	RoomTypeMappingView		
+G3 Essential	RoomTypeOverrideTableView		
+G3 Essential	schedule-reports		
+G3 Essential	SFTPDeliveryForReports	pacman.PreProduction.EnableSFTPDeliveryForReports	0
+G3 Essential	SmallGroupPricing	pacman.PreProduction.SmallGroupPricingEnabled	0
+G3 Essential	special-events-management		
+G3 Essential	ST19AtAGlance	pacman.feature.displayST19OnAtAGlanceSummary	0
+G3 Essential	ST19BAD	pacman.feature.displayST19OnBAD	0
+G3 Essential	ST19DataExtraction	pacman.feature.displayST19OnDataExtractionReport	0
+G3 Essential	ST19DataFeed	pacman.preProduction.isOptimizedST19DataFeedFetchEnabled	0
+G3 Essential	ST19DataFeedMSRT	pacman.preProduction.enableST19ForDatafeedMSRT	0
+G3 Essential	ST19RTDataByDBProc	pacman.preProduction.roomTypeST19DataByDBProc	0
+G3 Essential	user-management		
+G3 Essential	UserForecastDataView		
+G3 Essential	vendor-integration-mapping		
+G3 Essential	WhatIf	pacman.feature.WhatIfEnabled	0
+G3 Full	AccomClassMappingView		
+G3 Full	ActiveG3LinkedProducts	pacman.agilerates.MaxActiveAgileRates	0
+G3 Full	admin-tools		
+G3 Full	AdvancedPricingConfiguration		0
+G3 Full	AgileRateRestrictionView		
+G3 Full	AgileRates	pacman.feature.AgileRatesEnabled	0
+G3 Full	AllSRPReportEnabled	pacman.feature.AllSRPReportEnabled	1
+G3 Full	AMS	pacman.feature.AnalyticalMarketSegmentEnabled	1
+G3 Full	arrival-by-los-remaining-demand-report		
+G3 Full	arrival-bylos-report		
+G3 Full	at-a-glance		
+G3 Full	AttributeAssignmentNonAmsView		
+G3 Full	AttributeAssignmentView		
+G3 Full	benefit-measurement		
+G3 Full	BenefitMeasurement	pacman.feature.benefitMeasurementEnabled	1
+G3 Full	booking-pace-report		
+G3 Full	booking-situation-report		
+G3 Full	BudgetDataView		
+G3 Full	BudgetUserForecastConfigurationView		
+G3 Full	business-analysis		
+G3 Full	business-insights		
+G3 Full	BusinessAnalysisDataDetailsView		
+G3 Full	BusinessAnalysisPaceDataView		
+G3 Full	BusinessAnalysisPerformanceView		
+G3 Full	BusinessAnalysisSummaryView		
+G3 Full	CeilingFloorGroupView		
+G3 Full	channel-costs		
+G3 Full	channel-costs-v3		
+G3 Full	channel-forecast-dashboard		
+G3 Full	ChannelCostsV3View		
+G3 Full	ChannelForecast	pacman.feature.channelcost.forecastdashboardenabled	1
+G3 Full	ChannelSettingsView		
+G3 Full	client-budget		
+G3 Full	client-limited-data-build		
+G3 Full	client-questionnaire		
+G3 Full	ClientBookingPatternView		
+G3 Full	ClientProjectionsView		
+G3 Full	comparative-booking-pace-report		
+G3 Full	CompetitorPriceAsOfLastNightlyOptimization		
+G3 Full	CompetitorPriceChange		
+G3 Full	CompetitorSettingsView		
+G3 Full	component-rooms	pacman.feature.ComponentRoomsEnabled	
+G3 Full	ConditionStep		
+G3 Full	configuration-manager		
+G3 Full	ConfigurationManager	pacman.preproduction.isConfigurationManagerEnabled	1
+G3 Full	CONFIGURE		
+G3 Full	CONFIGURE_DECISIONS		
+G3 Full	CONFIGURE_EXTERNAL_DATA		
+G3 Full	CONFIGURE_FORECASTS		
+G3 Full	CONFIGURE_INVENTORY		
+G3 Full	CONFIGURE_PERMISSIONS		
+G3 Full	CONFIGURE_PROPERTY		
+G3 Full	ContinuousPricing	pacman.feature.isContinuousPricingEnabled	1
+G3 Full	corporate-business-views		
+G3 Full	CorporateBusinessView		
+G3 Full	CostOfWalkView		
+G3 Full	dashboard-summary		
+G3 Full	DASHBOARDS		
+G3 Full	data-extraction-report		
+G3 Full	data-feed		
+G3 Full	dataDetails		
+G3 Full	DataExtractionReport	pacman.feature.MaxAllowedSchedulesForDataExtractionReport	1
+G3 Full	decision-configuration		
+G3 Full	DecisionAsOfLastNightlyOptimization		
+G3 Full	DecisionAsOfLastOptimization		
+G3 Full	DecisionChangeEx		
+G3 Full	DecisionChangeExAsOfLastOptimization		
+G3 Full	DecisionUploadWindowBDE	pacman.upload.DecisionUploadWindowBDEDays	406
+G3 Full	demand-and-wash-management		
+G3 Full	DemandAndWashManagementUIExtendedStayEnabled	pacman.demandAndWashManagement.ExtendedStayEnabled	1
+G3 Full	DemandByOccDateAndWashView		
+G3 Full	DisplayPreferencesView		
+G3 Full	ExternalSystem		2
+G3 Full	FilteredPropertyTabView		
+G3 Full	fiscal-calendar		
+G3 Full	ForecastGroupOverrideTableView		
+G3 Full	ForecastGroupView		
+G3 Full	ForecastSettingsView		
+G3 Full	ForecastWindowBDE	pacman.forecasting.forecastWindowBDE	560
+G3 Full	ForecastWindowCDP	pacman.forecasting.forecastWindowCDP	90
+G3 Full	FTPDeliveryForReports	pacman.PreProduction.EnableFTPDeliveryForReports	0
+G3 Full	FUNCTION_SPACE		
+G3 Full	FutureDays	pacman.integration.futureDays	405
+G3 Full	group-pricing-configuration		
+G3 Full	group-pricing-evaluation		
+G3 Full	group-status-code		
+G3 Full	group-wash		
+G3 Full	GroupPriceRankingView		
+G3 Full	GroupPricing	pacman.feature.GroupPricingEnabled	1
+G3 Full	GroupPricingAccomTypeConfigurationView		
+G3 Full	GroupPricingAncillaryView		
+G3 Full	GroupPricingConferenceBanquetView		
+G3 Full	GroupPricingGeneralConfigurationView		
+G3 Full	GroupView		
+G3 Full	GroupWashMonthView		
+G3 Full	HeatMapSettingsView		
+G3 Full	ideashare		
+G3 Full	IDP		3
+G3 Full	IMAlertsView		
+G3 Full	IMExceptionsView		
+G3 Full	IMNotificationsView		
+G3 Full	IMSystemHealthView		
+G3 Full	IndependentProducts	pacman.preproduction.IndependentProductsEnabled	0
+G3 Full	IndependentProductsDefinitionStepView		
+G3 Full	individual-group-wash-report		
+G3 Full	IndividualGroupsPlaceholderView		
+G3 Full	IndividualGroupWash	pacman.feature.IndividualGroupWashReportEnabled	1
+G3 Full	IndividualGroupWashByNameView		
+G3 Full	information-manager		
+G3 Full	input-override-report		
+G3 Full	InventoryGroupsConfigurationView		
+G3 Full	investigator		
+G3 Full	InvestigatorChartView		
+G3 Full	InvestigatorOverrideHistoryPlaceholderView		
+G3 Full	limited-data-build		
+G3 Full	LimitedDataBuildMarketSegmentView		
+G3 Full	MANAGE		
+G3 Full	MapComponentRoomsView		
+G3 Full	market-segments		
+G3 Full	MarketSegmentView		
+G3 Full	mass-restriction-upload		
+G3 Full	MaxIDP	pacman.core.property.cdp.dailymax	0
+G3 Full	MaxUploadLinkedProducts	pacman.agilerates.MaxUploadedAgileRates	0
+G3 Full	mcat-mapping-report		
+G3 Full	MinimumPriceDifferentialView		
+G3 Full	MinimumProfitMarginView		
+G3 Full	MONITOR		
+G3 Full	MONITOR_REPORTS		
+G3 Full	monitoring-dashboard		
+G3 Full	MonitoringWindowStep		
+G3 Full	MultiProductInvestigatorChartView		
+G3 Full	MultiProductOverrideHistoryPlaceholderView		
+G3 Full	MultiProductOverrideTabPlaceholderView		
+G3 Full	NOTIFICATION_SUBTYPE_COMP_SUBTYPE		
+G3 Full	NOTIFICATION_SUBTYPE_PRICING		
+G3 Full	NOTIFICATION_SUBTYPE_PRICING_BY_VALUE		
+G3 Full	NotificationDetailsStep		
+G3 Full	OnDemandOptimization	pacman.feature.OnDemandIDPEnabled	1
+G3 Full	operations-report		
+G3 Full	OperationsReport	pacman.feature.MaxAllowedSchedulesForOperationsReport	1
+G3 Full	OptimizationSettingsView		
+G3 Full	OptimizationWindowBDE	pacman.optimization.optimizationWindowBDE	406
+G3 Full	OptimizationWindowCDP	pacman.optimization.optimizationWindowCDP	
+G3 Full	OTHER		
+G3 Full	out-of-order-overrides		
+G3 Full	output-override-report		
+G3 Full	overbooking-management		
+G3 Full	OverbookingCostOfWalkOverrideValueColumn		1
+G3 Full	OverbookingView		
+G3 Full	performance-comparison-report		
+G3 Full	pick-up-change-and-differential-control-report		
+G3 Full	PickupAndChangeReport	pacman.feature.MaxAllowedSchedulesForPickupAndChangeReport	8
+G3 Full	PriceRankingAndUpgradeView		
+G3 Full	pricing		
+G3 Full	pricing-config		
+G3 Full	pricing-override-history-report		
+G3 Full	pricing-pace-report		
+G3 Full	pricing-report		
+G3 Full	PricingConfigurationFloorCeilingView		
+G3 Full	PricingConfigurationOffsetsView		
+G3 Full	PricingConfigurationSupplementView		
+G3 Full	PricingReport	pacman.feature.MaxAllowedSchedulesForPricingReport	7
+G3 Full	ProjectionsDownloaderView		
+G3 Full	property-attribute-assignment-report		
+G3 Full	property-attribute-assignments		
+G3 Full	property-attributes		
+G3 Full	property-groups		
+G3 Full	property-specific-configuration		
+G3 Full	PropertyBusinessView		
+G3 Full	PropertyInformationView		
+G3 Full	PropertyStep		
+G3 Full	PropertyTabView		
+G3 Full	rate-plan-production-report		
+G3 Full	rate-plan-report		
+G3 Full	rate-shopping-configuration		
+G3 Full	RateCodeView		
+G3 Full	RatePlanDetailsView		
+G3 Full	RatePlanHeaderConfigurationView		
+G3 Full	RateShoppingScheduleView		
+G3 Full	restriction-level-report		
+G3 Full	RoomClass		50
+G3 Full	RoomClassRatioConfigView		
+G3 Full	rooms-configuration		
+G3 Full	RoomsConfigurationWelcomeView		
+G3 Full	RoomTypeMappingView		
+G3 Full	RoomTypeOverrideTableView		
+G3 Full	schedule-reports		
+G3 Full	SelectComponentRoomsView		
+G3 Full	SFTPDeliveryForReports	pacman.PreProduction.EnableSFTPDeliveryForReports	0
+G3 Full	SharedPhysicalRoomsView		
+G3 Full	sla-report		
+G3 Full	SmallGroupPricing	pacman.PreProduction.SmallGroupPricingEnabled	0
+G3 Full	special-event-upload		
+G3 Full	special-events-report		
+G3 Full	ST19AtAGlance	pacman.feature.displayST19OnAtAGlanceSummary	0
+G3 Full	ST19BAD	pacman.feature.displayST19OnBAD	0
+G3 Full	ST19DataExtraction	pacman.feature.displayST19OnDataExtractionReport	0
+G3 Full	ST19DataFeed	pacman.preProduction.isOptimizedST19DataFeedFetchEnabled	0
+G3 Full	ST19DataFeedMSRT	pacman.preProduction.enableST19ForDatafeedMSRT	0
+G3 Full	ST19RTDataByDBProc	pacman.preProduction.roomTypeST19DataByDBProc	0
+G3 Full	user-activity-log-report		
+G3 Full	user-management		
+G3 Full	user-report		
+G3 Full	UserForecastDataView		
+G3 Full	vendor-integration-mapping		
+G3 Full	WhatIf	pacman.feature.WhatIfEnabled	1
+G3 Select	AccomClassMappingView		
+G3 Select	ActiveG3LinkedProducts	pacman.agilerates.MaxActiveAgileRates	0
+G3 Select	admin-tools		
+G3 Select	AdvancedPricingConfiguration		0
+G3 Select	AgileRateRestrictionView		
+G3 Select	AgileRates	pacman.feature.AgileRatesEnabled	0
+G3 Select	AllSRPReportEnabled	pacman.feature.AllSRPReportEnabled	1
+G3 Select	AMS	pacman.feature.AnalyticalMarketSegmentEnabled	1
+G3 Select	arrival-by-los-remaining-demand-report		
+G3 Select	arrival-bylos-report		
+G3 Select	at-a-glance		
+G3 Select	AttributeAssignmentNonAmsView		
+G3 Select	AttributeAssignmentView		
+G3 Select	benefit-measurement		
+G3 Select	BenefitMeasurement	pacman.feature.benefitMeasurementEnabled	1
+G3 Select	booking-pace-report		
+G3 Select	booking-situation-report		
+G3 Select	BudgetDataView		
+G3 Select	BudgetUserForecastConfigurationView		
+G3 Select	business-analysis		
+G3 Select	business-insights		
+G3 Select	BusinessAnalysisDataDetailsView		
+G3 Select	BusinessAnalysisPaceDataView		
+G3 Select	BusinessAnalysisPerformanceView		
+G3 Select	BusinessAnalysisSummaryView		
+G3 Select	CeilingFloorGroupView		
+G3 Select	channel-costs		
+G3 Select	channel-costs-v3		
+G3 Select	channel-forecast-dashboard		
+G3 Select	ChannelCostsV3View		
+G3 Select	ChannelForecast	pacman.feature.channelcost.forecastdashboardenabled	1
+G3 Select	ChannelSettingsView		
+G3 Select	client-budget		
+G3 Select	client-limited-data-build		
+G3 Select	client-questionnaire		
+G3 Select	ClientBookingPatternView		
+G3 Select	ClientProjectionsView		
+G3 Select	comparative-booking-pace-report		
+G3 Select	CompetitorPriceAsOfLastNightlyOptimization		
+G3 Select	CompetitorPriceChange		
+G3 Select	CompetitorSettingsView		
+G3 Select	ConditionStep		
+G3 Select	configuration-manager		
+G3 Select	ConfigurationManager	pacman.preproduction.isConfigurationManagerEnabled	1
+G3 Select	CONFIGURE		
+G3 Select	CONFIGURE_DECISIONS		
+G3 Select	CONFIGURE_EXTERNAL_DATA		
+G3 Select	CONFIGURE_FORECASTS		
+G3 Select	CONFIGURE_INVENTORY		
+G3 Select	CONFIGURE_PERMISSIONS		
+G3 Select	CONFIGURE_PROPERTY		
+G3 Select	ContinuousPricing	pacman.feature.isContinuousPricingEnabled	1
+G3 Select	corporate-business-views		
+G3 Select	CorporateBusinessView		
+G3 Select	CostOfWalkView		
+G3 Select	dashboard-summary		
+G3 Select	DASHBOARDS		
+G3 Select	data-extraction-report		
+G3 Select	data-feed		
+G3 Select	dataDetails		
+G3 Select	DataExtractionReport	pacman.feature.MaxAllowedSchedulesForDataExtractionReport	1
+G3 Select	decision-configuration		
+G3 Select	DecisionAsOfLastNightlyOptimization		
+G3 Select	DecisionAsOfLastOptimization		
+G3 Select	DecisionChangeEx		
+G3 Select	DecisionChangeExAsOfLastOptimization		
+G3 Select	DecisionConfiguration	pacman.feature.DecisionConfigurationEnabled	1
+G3 Select	demand-and-wash-management		
+G3 Select	DemandAndWashManagementUIExtendedStayEnabled	pacman.demandAndWashManagement.ExtendedStayEnabled	1
+G3 Select	DemandByOccDateAndWashView		
+G3 Select	ExternalSystem		2
+G3 Select	FilteredPropertyTabView		
+G3 Select	fiscal-calendar		
+G3 Select	ForecastGroupOverrideTableView		
+G3 Select	ForecastGroupView		
+G3 Select	ForecastSettingsView		
+G3 Select	ForecastWindowBDE	pacman.forecasting.forecastWindowBDE	560
+G3 Select	ForecastWindowCDP	pacman.forecasting.forecastWindowCDP	
+G3 Select	FTPDeliveryForReports	pacman.PreProduction.EnableFTPDeliveryForReports	0
+G3 Select	FUNCTION_SPACE		
+G3 Select	FutureDays	pacman.integration.futureDays	405
+G3 Select	group-pricing-configuration		
+G3 Select	group-pricing-evaluation		
+G3 Select	group-status-code		
+G3 Select	group-wash		
+G3 Select	GroupPricing	pacman.feature.GroupPricingEnabled	1
+G3 Select	GroupPricingAccomTypeConfigurationView		
+G3 Select	GroupPricingAncillaryView		
+G3 Select	GroupPricingConferenceBanquetView		
+G3 Select	GroupPricingGeneralConfigurationView		
+G3 Select	GroupWashMonthView		
+G3 Select	HeatMapSettingsView		
+G3 Select	ideashare		
+G3 Select	IDP		0
+G3 Select	IMAlertsView		
+G3 Select	IMExceptionsView		
+G3 Select	IMNotificationsView		
+G3 Select	IMSystemHealthView		
+G3 Select	IndependentProducts	pacman.preproduction.IndependentProductsEnabled	1
+G3 Select	IndependentProductsDefinitionStepView		
+G3 Select	individual-group-wash-report		
+G3 Select	IndividualGroupsPlaceholderView		
+G3 Select	IndividualGroupWash	pacman.feature.IndividualGroupWashReportEnabled	1
+G3 Select	information-manager		
+G3 Select	input-override-report		
+G3 Select	InventoryGroupsConfigurationView		
+G3 Select	investigator		
+G3 Select	InvestigatorChartView		
+G3 Select	InvestigatorOverrideHistoryPlaceholderView		
+G3 Select	limited-data-build		
+G3 Select	LimitedDataBuildEnabled	pacman.core.LimitedDataBuildEnabled	1
+G3 Select	MANAGE		
+G3 Select	market-segments		
+G3 Select	MarketSegmentView		
+G3 Select	mass-restriction-upload		
+G3 Select	MaxIDP	pacman.core.property.cdp.dailymax	0
+G3 Select	MaxUploadLinkedProducts	pacman.agilerates.MaxUploadedAgileRates	0
+G3 Select	mcat-mapping-report		
+G3 Select	MinimumProfitMarginView		
+G3 Select	MONITOR		
+G3 Select	MONITOR_REPORTS		
+G3 Select	monitoring-dashboard		
+G3 Select	MonitoringWindowStep		
+G3 Select	MultiProductInvestigatorChartView		
+G3 Select	MultiProductOverrideHistoryPlaceholderView		
+G3 Select	MultiProductOverrideTabPlaceholderView		
+G3 Select	NOTIFICATION_SUBTYPE_COMP_SUBTYPE		
+G3 Select	NOTIFICATION_SUBTYPE_PRICING		
+G3 Select	NOTIFICATION_SUBTYPE_PRICING_BY_VALUE		
+G3 Select	NotificationDetailsStep		
+G3 Select	OnDemandOptimization	pacman.feature.OnDemandIDPEnabled	0
+G3 Select	operations-report		
+G3 Select	OperationsReport	pacman.feature.MaxAllowedSchedulesForOperationsReport	1
+G3 Select	OptimizationSettingsView		
+G3 Select	OptimizationWindowBDE	pacman.optimization.optimizationWindowBDE	405
+G3 Select	OptimizationWindowCDP	pacman.optimization.optimizationWindowCDP	
+G3 Select	OTHER		
+G3 Select	out-of-order-overrides		
+G3 Select	output-override-report		
+G3 Select	overbooking-management		
+G3 Select	OverbookingCostOfWalkOverrideValueColumn		1
+G3 Select	OverbookingView		
+G3 Select	performance-comparison-report		
+G3 Select	pick-up-change-and-differential-control-report		
+G3 Select	PickupAndChangeReport	pacman.feature.MaxAllowedSchedulesForPickupAndChangeReport	8
+G3 Select	pricing		
+G3 Select	pricing-config		
+G3 Select	pricing-override-history-report		
+G3 Select	pricing-pace-report		
+G3 Select	pricing-report		
+G3 Select	PricingConfigurationFloorCeilingView		
+G3 Select	PricingConfigurationOffsetsView		
+G3 Select	PricingConfigurationSupplementView		
+G3 Select	PricingReport	pacman.feature.MaxAllowedSchedulesForPricingReport	7
+G3 Select	ProjectionsDownloaderView		
+G3 Select	property-attribute-assignment-report		
+G3 Select	property-attribute-assignments		
+G3 Select	property-attributes		
+G3 Select	property-groups		
+G3 Select	property-specific-configuration		
+G3 Select	PropertyBusinessView		
+G3 Select	PropertyInformationView		
+G3 Select	PropertyStep		
+G3 Select	PropertyTabView		
+G3 Select	qualified-rate-plan-configuration		
+G3 Select	rate-plan-production-report		
+G3 Select	rate-plan-report		
+G3 Select	rate-shopping-configuration		
+G3 Select	RateCodeView		
+G3 Select	RatePlanDetailsView		
+G3 Select	RatePlanHeaderConfigurationView		
+G3 Select	RateShoppingScheduleView		
+G3 Select	restriction-level-report		
+G3 Select	RoomClass		1
+G3 Select	rooms-configuration		
+G3 Select	RoomsConfigurationWelcomeView		
+G3 Select	RoomTypeMappingView		
+G3 Select	RoomTypeOverrideTableView		
+G3 Select	schedule-reports		
+G3 Select	SFTPDeliveryForReports	pacman.PreProduction.EnableSFTPDeliveryForReports	0
+G3 Select	sla-report		
+G3 Select	SmallGroupPricing	pacman.PreProduction.SmallGroupPricingEnabled	0
+G3 Select	special-event-upload		
+G3 Select	special-events-management		
+G3 Select	special-events-report		
+G3 Select	ST19AtAGlance	pacman.feature.displayST19OnAtAGlanceSummary	0
+G3 Select	ST19BAD	pacman.feature.displayST19OnBAD	0
+G3 Select	ST19DataExtraction	pacman.feature.displayST19OnDataExtractionReport	0
+G3 Select	ST19DataFeed	pacman.preProduction.isOptimizedST19DataFeedFetchEnabled	0
+G3 Select	ST19DataFeedMSRT	pacman.preProduction.enableST19ForDatafeedMSRT	0
+G3 Select	ST19RTDataByDBProc	pacman.preProduction.roomTypeST19DataByDBProc	0
+G3 Select	user-activity-log-report		
+G3 Select	user-management		
+G3 Select	user-report		
+G3 Select	UserForecastDataView		
+G3 Select	vendor-integration-mapping		
+G3 Select	WhatIf	pacman.feature.WhatIfEnabled	0
